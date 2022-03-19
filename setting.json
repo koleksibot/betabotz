@@ -1,16 +1,16 @@
 {
 "autoread": false,
-"OwnerNumber": "62895369318181", 
-"OwnerNumber2": "62895369318181", 
+"OwnerNumber": "628xxxx", 
+"OwnerNumber2": "6289xxx", 
 "OwnerName": "Koleksibot", 
 "OwnerName2": "Koleksibot",
 "Fake": "© Koleksibot", 
 "BotName": "Koleksibot", 
 "RyuKey": "RyuBotz", 
 "AlphaKey": "Alphabot", 
-"limitCount": 45,
-"Gopay": "083891921787", 
-"Dana": "083891921787", 
-"Ovo": "083891921787", 
-"Pulsa": "083891921787"
+"limitCount": 50,
+"Gopay": "08xxx", 
+"Dana": "08xxx", 
+"Ovo": "08xxx", 
+"Pulsa": "08xxx"
 }
