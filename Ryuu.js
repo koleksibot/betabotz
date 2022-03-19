@@ -1,6 +1,6 @@
 /*
  * Selamat di Gunakan🗿☕
- * instagram me? : @RyuukaBotz8
+ * instagram me? : @Koleksibot8
  * Jangan Lupa Kasih Creator nya om🗿☕
  * Note Dari Saya Jika Reupload Izin Ke Creator Dlu Atau Tidak Kasih Credit + Link Video nya... 
 */
@@ -956,7 +956,7 @@ tescok =
 🌱 _*Name User*_ : ${pushname}
 🏷 _*Bio User*_ : ${p.status==undefined?`Not Found`:p.status}
 📱 _*Nomor*_ : @${sender.split('@')[0]}`
- Sendbutdocument(from, tescok, "Create By RyuukaBotz", fs.readFileSync('./media/Ryuu.pdf'),{mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./media/Ryuu.jpg'), filename:`Ryuu.pdf`,pageCount: 999 }, [{buttonId:`${prefix}listmenu`,buttonText:{displayText:'LIST MENU 🌱'},type:1},{buttonId:`${prefix}allmenu`,buttonText:{displayText:'ALL MENU ⛩️'},type:1},{buttonId:`${prefix}script`,buttonText:{displayText:'SCRIPT 🎥'},type:1}], {quoted:fvid, contextInfo: { mentionedJid: [ptod,dtod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} ${pushname}\nScript Create By RyuukaBotz`,mediaType:"2",thumbnail:fakeimage,mediaUrl:`https://github.com/koleksibot`}}})
+ Sendbutdocument(from, tescok, "Create By Koleksibot", fs.readFileSync('./media/Ryuu.pdf'),{mimetype:Mimetype.pdf, thumbnail:fs.readFileSync('./media/Ryuu.jpg'), filename:`Ryuu.pdf`,pageCount: 999 }, [{buttonId:`${prefix}listmenu`,buttonText:{displayText:'LIST MENU 🌱'},type:1},{buttonId:`${prefix}allmenu`,buttonText:{displayText:'ALL MENU ⛩️'},type:1},{buttonId:`${prefix}script`,buttonText:{displayText:'SCRIPT 🎥'},type:1}], {quoted:fvid, contextInfo: { mentionedJid: [ptod,dtod,stod], forwardingScore: 508, isForwarded: true, externalAdReply:{title:`${tampilUcapan} ${pushname}\nScript Create By Koleksibot`,mediaType:"2",thumbnail:fakeimage,mediaUrl:`https://github.com/koleksibot`}}})
 break
 case 'listmenu':
 if (isBanned) return reply('Kamu Sudah Di banned!')
